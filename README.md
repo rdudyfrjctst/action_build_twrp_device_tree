@@ -14,7 +14,7 @@
 
 -----
 
-- 4.点击 `actions` － `make twrp device` － `run workflow`，然后在那个链接框里面输入你刚刚获取的直链
+- 4.点击 "actions － make twrp device － run workflow"，然后在那个链接框里面输入你刚刚获取的直链
 
 -----
 
