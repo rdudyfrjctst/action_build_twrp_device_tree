@@ -18,7 +18,7 @@
 
 -----
 
- - 5、填写完成后点击 "Run workflow" 开始运行
+- 5.填写完成后点击 "Run workflow" 开始运行
 
 ## 编译结果
 - 可以在 [Release](../../releases) 下载
